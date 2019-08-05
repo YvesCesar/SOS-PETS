@@ -6,5 +6,5 @@ Este é um projeto que fiz no 1° período da faculdade na disciplina Programaç
 - Se o Apk File não instalar, é por questões de requisitos de Hardware do Dispositivo.
 - O formato de arquivo é exclusivamente para dispositivos Android. Portanto, não há compatibilidade com IOS.
 - O Login a ser utilizado:
-             Usuário: betatester
-             Senha: 123tester
+             <strong>Usuário: betatester</strong>
+             <strong>Senha: 123tester</stong>
