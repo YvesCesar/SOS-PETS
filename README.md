@@ -8,3 +8,7 @@ Este é um projeto que fiz no 1° período da faculdade na disciplina Programaç
 - O Login a ser utilizado:
              <strong>Usuário: betatester</strong>
              <strong>Senha: 123tester</stong>
+
+<p align="center">
+  <img width="400" height="700" src="Screenshot_20190805-155747.png">
+</p>
