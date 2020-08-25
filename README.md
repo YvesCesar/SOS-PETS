@@ -10,6 +10,6 @@ Este é um projeto que fiz no 1° período da faculdade na disciplina Programaç
              <strong>Senha: 123tester</stong>
 
 <p align="left">
-  <img align="left" width="400" height="600" src="/Home.png">
-  <img align="right" width="400" height="600" src="/QuemSomos.png">
+  <img align="left" width="350" height="600" src="/Home.png">
+  <img align="right" width="350" height="600" src="/QuemSomos.png">
 </p>
